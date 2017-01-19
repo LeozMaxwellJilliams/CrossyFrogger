@@ -1,0 +1,7 @@
+6
+road1.png,road
+road2.png,road
+water.png,water
+grass1.png,grass
+grass2.png,grass
+track.png,track
